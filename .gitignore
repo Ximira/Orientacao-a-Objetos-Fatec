@@ -1,0 +1,5 @@
+nbproject/private/
+build/
+*.class
+*.jar
+/aula05_05/GradesTool/nbproject/private/
